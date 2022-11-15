@@ -1,6 +1,6 @@
-### Olá, eu sou a Monique Lima Ramos
+### Olá, eu sou a Monique Lima Ramos!
 
-- 🌱 Sou estudante de frontend: tecnologias de html, css e javascript.
+- 🌱 Atualmente sou estudante de frontend: tecnologias de html, css e javascript.
 
 
 <div align="center">
